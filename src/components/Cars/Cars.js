@@ -17,7 +17,7 @@ const Cars = () => {
     const addToCart = (car) => {
         const duplicateProduct = cart.find(p => p === car)
         const cartLength = [...cart, car].length;
-        console.log(cartLength)
+        // console.log(cartLength)
         if (duplicateProduct) {
             alert(`You can not add a product twice in the cart!!!`)
         }
