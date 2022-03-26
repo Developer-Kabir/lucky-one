@@ -1,0 +1,74 @@
+[
+    {
+      "id": "A1",
+      "picture": "https://bit.ly/3iEixk5",
+      "Price": 6276,
+      "name": "Pate Reed"
+    },
+    {
+      "id": "A2",
+      "picture": "https://bit.ly/3wJNtYJ",
+      "Price": 6867,
+      "name": "Clark Waller"
+    },
+    {
+      "id": "A3",
+      "picture": "https://bit.ly/3iE2fYE",
+      "Price": 5047,
+      "name": "Angela Pacheco"
+    },
+    {
+      "id": "A4",
+      "picture": "https://bit.ly/3iA6nZJ",
+      "Price": 6158,
+      "name": "Middleton Santiago"
+    },
+    {
+      "id": "A5",
+      "picture": "https://bit.ly/3De4cV9",
+      "Price": 6357,
+      "name": "Cunningham Olson"
+    },
+    {
+      "id": "A6",
+      "picture": "https://bit.ly/3DdcFYG",
+      "Price": 7464,
+      "name": "Lara Jefferson"
+    },
+    {
+      "id": "A7",
+      "picture": "https://bit.ly/3JH53jr",
+      "Price": 7432,
+      "name": "Reva Rice"
+    },
+    {
+      "id": "A8",
+      "picture": "https://bit.ly/3tCdLtQ",
+      "Price": 7379,
+      "name": "Millie Oneill"
+    },
+    {
+      "id": "A9",
+      "picture": "https://bit.ly/3ux8EKv",
+      "Price": 7176,
+      "name": "Alvarez Haynes"
+    },
+    {
+      "id": "B1",
+      "picture": "https://bit.ly/3LhW9JO",
+      "Price": 6102,
+      "name": "Savage Bentley"
+    },
+    {
+      "id": "B2",
+      "picture": "https://bit.ly/3ursB5v",
+      "Price": 7368,
+      "name": "Charlotte Valentine"
+    },
+    {
+      "id": "B3",
+      "picture": "https://bit.ly/3iEI2lk",
+      "Price": 6299,
+      "name": "Elizabeth Hunt"
+    }
+  ]
