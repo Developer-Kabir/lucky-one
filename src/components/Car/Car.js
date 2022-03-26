@@ -6,6 +6,7 @@ import './Car.css'
 
 const Car = ({car, addToCart}) => {
     const {name, Price, picture} = car;
+    console.log (car);
     return (
         <div className='product'>
                         <div className='product-img'>

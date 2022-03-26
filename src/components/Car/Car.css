@@ -48,3 +48,19 @@ img{
 .cart-btn:hover{
     background-color: orange;
 }
+
+@media only screen and (max-width: 480px){
+   
+    
+    .product{
+        width: 250px;
+        height: 360px;
+        margin: 0px 30px;
+        margin-bottom: 50px;
+        background-color: rgb(201, 227, 250);
+        border-radius: 10px;
+        box-shadow: 3px 3px lightblue;
+        position: relative;
+    }
+    
+}
