@@ -17,6 +17,7 @@
 
 img{
     min-height: 220px;
+    overflow: hidden;
     border-radius: 20px;
     padding: 10px;
 }
