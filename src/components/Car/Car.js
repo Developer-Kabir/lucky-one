@@ -1,5 +1,8 @@
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faShoppingCart } from '@fortawesome/free-solid-svg-icons'
 import './Car.css'
+
 
 const Car = (props) => {
     const {name, Price, picture} = props.car;
@@ -9,9 +12,13 @@ const Car = (props) => {
                             <img className='img-fluid' src={picture} alt="" />
                         </div>
                         <div className='product-info'>
-                            <h2> Name : {name}</h2>
-                            <h3>Price : {Price}</h3>
+                            <h4>{name}</h4>
+                            <h5>Price : $ {Price}</h5>
                         </div>
+                        <button className='cart-btn'>
+                            <p>Add to Cart</p>
+                            <FontAwesomeIcon icon={faShoppingCart} />
+                        </button>
         </div>
     );
 };

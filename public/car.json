@@ -3,72 +3,72 @@
       "id": "A1",
       "picture": "image/a1.jpg",
       "Price": 6276,
-      "name": "Pate Reed"
+      "name": "Range-Rover"
     },
     {
       "id": "A2",
       "picture": "image/a2.jpg",
       "Price": 6867,
-      "name": "Clark Waller"
+      "name": "Lamborgini"
     },
     {
       "id": "A3",
       "picture": "image/a3.jpg",
       "Price": 5047,
-      "name": "Angela Pacheco"
+      "name": "Toyota"
     },
     {
       "id": "A4",
       "picture": "image/a4.jpg",
       "Price": 6158,
-      "name": "Middleton Santiago"
+      "name": "Tata"
     },
     {
       "id": "A5",
       "picture": "image/a5.jpg",
       "Price": 6357,
-      "name": "Cunningham Olson"
+      "name": "BMW"
     },
     {
       "id": "A6",
       "picture": "image/a6.jpg",
       "Price": 7464,
-      "name": "Lara Jefferson"
+      "name": "Lamborgini X"
     },
     {
       "id": "A7",
       "picture": "image/a7.jpg",
       "Price": 7432,
-      "name": "Reva Rice"
+      "name": "Rang-Rover XZ"
     },
     {
       "id": "A8",
       "picture": "image/a8.jpg",
       "Price": 7379,
-      "name": "Millie Oneill"
+      "name": "Toyota GSX"
     },
     {
       "id": "A9",
       "picture": "image/a9.jpg",
       "Price": 7176,
-      "name": "Alvarez Haynes"
+      "name": "Suzuki"
     },
     {
       "id": "B1",
       "picture" : "image/b1.jpg",
       "Price": 6102,
-      "name": "Savage Bentley"
+      "name": "Eicher"
     },
     {
       "id": "B2",
       "picture": "image/b2.jpg",
       "Price": 7368,
-      "name": "Charlotte Valentine"
+      "name": "Ashok Lyliend"
     },
     {
       "id": "B3",
       "picture": "image/b3.jpg",
       "Price": 6299,
-      "name": "Elizabeth Hunt"
+      "name": "Suzuki M200"
     }
   ]
